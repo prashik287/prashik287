@@ -1,3 +1,4 @@
+![logo](https://github.com/prashik287/prashik287/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Prashik Jadhav</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiasist from India</h3>
 <img align="right"  alt="anonymous" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif"/>
