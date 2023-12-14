@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashik Jadhav</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiasist from India</h3>
-<img align="right"  alt="anonymous" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif"
+<img align="right"  alt="anonymous" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashik287&label=Profile%20views&color=0e75b6&style=flat" alt="prashik287" /> </p>
 
 - 💬 Ask me about **react,python and cybersecurity**
@@ -9,6 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/prashik287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashik287" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashikjadhav17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashikjadhav17" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_prashik_2277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_prashik_2277" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
