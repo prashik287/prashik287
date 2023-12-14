@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashik Jadhav</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiasist from India</h3>
-<img align="right" alt="anonymous" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif"
-
+<img align="right"  alt="anonymous" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashik287&label=Profile%20views&color=0e75b6&style=flat" alt="prashik287" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashik287" alt="prashik287" /></a> </p>
 
 - 💬 Ask me about **react,python and cybersecurity**
 
