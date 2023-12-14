@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prashik Jadhav</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiasist from India</h3>
-<img align="right" alt="anonymous" width="400" src="https://images.app.goo.gl/cJEJFqBNM2zPVRdW6"
+<img align="right" alt="anonymous" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashik287&label=Profile%20views&color=0e75b6&style=flat" alt="prashik287" /> </p>
 
