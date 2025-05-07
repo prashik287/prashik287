@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/prashik287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prashik287" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prashikjadhav17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashikjadhav17" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_prashik_2277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_prashik_2277" height="30" width="40" /></a>
+<a href="https://instagram.com/codedloki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_prashik_2277" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
