@@ -1,8 +1,8 @@
-![logo](https://github.com/prashik287/prashik287/blob/main/github-header-image.png)
+![logo](https://github.com/codedloki/codedloki/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Prashik Jadhav</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiasist from India</h3>
 <img align="right"  alt="anonymous" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-2.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashik287&label=Profile%20views&color=0e75b6&style=flat" alt="prashik287" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codedloki&label=Profile%20views&color=0e75b6&style=flat" alt="codedloki" /> </p>
 
 - 💬 Ask me about **react,python and cybersecurity**
 
